@@ -1,0 +1,16 @@
+PODS:
+  - JHLme (0.1.0)
+
+DEPENDENCIES:
+  - JHLme (from `../`)
+
+EXTERNAL SOURCES:
+  JHLme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JHLme: e7075634b835b17bc54e5f739ae7c2e9f90fbce5
+
+PODFILE CHECKSUM: 82b6269425679a6eaf07113c76be615fa1fd9ba4
+
+COCOAPODS: 1.9.3
