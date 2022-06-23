@@ -1,5 +1,5 @@
 PODS:
-  - JHLme (0.1.0)
+  - JHLme (1.1.0)
 
 DEPENDENCIES:
   - JHLme (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JHLme: e7075634b835b17bc54e5f739ae7c2e9f90fbce5
+  JHLme: 244057ac5f7a500176981bfa6a87e8c2374fa69a
 
 PODFILE CHECKSUM: 82b6269425679a6eaf07113c76be615fa1fd9ba4
 
